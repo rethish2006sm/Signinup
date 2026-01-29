@@ -10,7 +10,7 @@ const Signin = () => {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
 
-  const server_url = "http://localhost:8000";
+  const server_url = "https://signinup-backend.onrender.com";
 
   const signin = async () => {
     try {
