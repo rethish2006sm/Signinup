@@ -29,7 +29,7 @@ const Signin = () => {
 
 
     } catch (error) {
-      alert("Invalid credentials");
+      alert("Invalid credential");
       console.log(error);
     }
   };
