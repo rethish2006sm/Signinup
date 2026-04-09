@@ -14,7 +14,7 @@ const Home = () => {
         {/* Navbar */}
         <div className="w-full h-20 bg-[#c9cbde] flex items-center px-10">
           {/* Logo */}
-          <div className="text-5xl font-bold">Start-uP</div>
+          <div className="text-5xl font-bold">Start-UP</div>
 
           {/* Menu */}
           <div className="ml-auto flex gap-10 font-bold">
