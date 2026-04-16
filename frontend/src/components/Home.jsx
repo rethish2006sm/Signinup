@@ -28,7 +28,7 @@ const Home = () => {
 
             {/* logout */}
             <button className="hover:text-blue-600 transition cursor-pointer" onClick={logout}>
-              <Link to="/">Log out</Link>
+              <Link to="/">Logout</Link>
             </button>
           </div>
         </div>
