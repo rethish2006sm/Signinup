@@ -39,7 +39,7 @@ const Signin = () => {
       <div className="bg-white p-8 rounded-2xl shadow-2xl w-[360px]">
         
         <h1 className="text-3xl font-bold text-center mb-6 text-gray-800">
-          Sign IN
+          Sign in
         </h1>
 
         <input
