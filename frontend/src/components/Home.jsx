@@ -23,7 +23,7 @@ const Home = () => {
             </button>
 
             <button className="hover:text-blue-600 transition cursor-pointer">
-              <Link to="/signup">Signup</Link>
+              <Link to="/signup">SignUP</Link>
             </button>
 
             {/* logout */}
