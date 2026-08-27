@@ -12,7 +12,7 @@ const Homenull = () => {
 
           {/* Logo */}
           <div className="text-5xl font-bold">
-            Startup
+            StartUP
           </div>
 
           {/* Menu */}
