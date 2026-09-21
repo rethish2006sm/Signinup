@@ -19,7 +19,7 @@ const Homenull = () => {
           <div className="ml-auto flex gap-10 font-bold">
 
             <button className="hover:text-blue-600 transition cursor-pointer">
-              Home
+              HOME
             </button>
 
             <button className="hover:text-blue-600 transition cursor-pointer">
