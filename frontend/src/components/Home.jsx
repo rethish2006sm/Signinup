@@ -19,11 +19,11 @@ const Home = () => {
           {/* Menu */}
           <div className="ml-auto flex gap-10 font-bold">
             <button className="hover:text-blue-600 transition cursor-pointer">
-              Home
+              HOME
             </button>
 
             <button className="hover:text-blue-600 transition cursor-pointer">
-              <Link to="/signup">SignUP</Link>
+              <Link to="/signup">SIGNUP</Link>
             </button>
 
             {/* logout */}
